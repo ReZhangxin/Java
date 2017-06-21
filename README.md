@@ -1,4 +1,5 @@
 # Java大陆
+```java
 public class Char01 {
     public static void main(String [] args){
     
@@ -68,3 +69,4 @@ public class Char01 {
          }
 }
 
+```
