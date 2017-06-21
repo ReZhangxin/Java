@@ -1,5 +1,5 @@
 # Java大陆
-```java
+```Java
 public class Char01 {
     public static void main(String [] args){
     
